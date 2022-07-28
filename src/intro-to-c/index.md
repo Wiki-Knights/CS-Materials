@@ -57,6 +57,8 @@ toc: false
 
 [Pointers Practice](pointers/pointers-practice.md) ([Answers](pointers/pointers-practice-answers.md))
 
+[Introduction to Dynamic Memory Allocation](dma/intro-to-dma.md)
+
 [Dynamic Memory Allocation Practice](dma/dma-practice.md) ([Answers](dma/dma-practice-answers.md))
 
 [Final Project Practice](final-project/final-project-practice.md) ([Answers](final-project/final-project-practice-answers.md))
